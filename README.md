@@ -1,6 +1,6 @@
 ### Nicolas
 
-*Soy -*
+*Soy*
 _ese_
 
 ![Alt](https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43c05d.png)
