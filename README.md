@@ -1,6 +1,6 @@
 ### Nicolas
 
-*Siempre Blessd*
+*Siempre Bendecido*
 _Siempre Blessd_
 
 ![Alt](https://redmas.com.co/__export/1685192400647/sites/redmas/img/2023/05/27/maluma-blessd-haran-nueva-colaboracion.jpg_1103262874.jpg)
