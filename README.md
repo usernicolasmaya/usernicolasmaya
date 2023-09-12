@@ -3,7 +3,7 @@
 *Siempre Blessd*
 _Siempre Blessd_
 
-![Alt](https://www.billboard.com/wp-content/uploads/2022/11/Blessd-Portrait-billboard-espagnol-1548.jpg)
+![Alt](https://www.elespectador.com/resizer/NvJee0xUAPW7z9w2_yernOu37UI=/910x606/filters:quality(70):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/QO2PIESG6BBBNLNSJHXWE3YAUU.jpeg)
 
 | Color | Código |
 | ----------- | ----------- |
