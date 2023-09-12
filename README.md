@@ -4,6 +4,8 @@
 _ese_
 
 ![Alt](https://w7.pngwing.com/pngs/895/199/png-transparent-spider-man-heroes-download-with-transparent-background-free-thumbnail.png)
+![Alt](https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43c05d.png)
+
 
 | Color | Código |
 | ----------- | ----------- |
