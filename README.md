@@ -1,4 +1,4 @@
-### Yo
+### Nicolas
 
 - 👋 Hi, I’m @usernicolasmaya
 - 👀 I’m interested in ...
