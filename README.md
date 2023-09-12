@@ -1,9 +1,9 @@
 ### Nicolas
 
-*Siempre Bendecido -*
-_Siempre Blessd_
+*Soy -*
+_ese_
 
-![Alt](https://redmas.com.co/__export/1685192400647/sites/redmas/img/2023/05/27/maluma-blessd-haran-nueva-colaboracion.jpg_1103262874.jpg)
+![Alt](https://w7.pngwing.com/pngs/895/199/png-transparent-spider-man-heroes-download-with-transparent-background-free-thumbnail.png)
 
 | Color | Código |
 | ----------- | ----------- |
