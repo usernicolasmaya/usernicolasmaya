@@ -3,7 +3,7 @@
 *Siempre Blessd*
 _Siempre Blessd_
 
-![Alt](https://www.elespectador.com/resizer/NvJee0xUAPW7z9w2_yernOu37UI=/910x606/filters:quality(70):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/QO2PIESG6BBBNLNSJHXWE3YAUU.jpeg)
+![Alt](https://www.terra.com.co/u/fotografias/m/2023/6/13/f850x638-11015_88504_4837.jpg)
 
 | Color | Código |
 | ----------- | ----------- |
