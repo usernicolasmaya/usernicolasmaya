@@ -3,7 +3,7 @@
 *Siempre Blessd*
 _Siempre Blessd_
 
-![Alt](https://impactolatino.com/wp-content/uploads/2021/10/Warner-Music-Latina-ficha-a-Blessd...jpg)
+![Alt](https://redmas.com.co/__export/1685192400647/sites/redmas/img/2023/05/27/maluma-blessd-haran-nueva-colaboracion.jpg_1103262874.jpg)
 
 | Color | Código |
 | ----------- | ----------- |
