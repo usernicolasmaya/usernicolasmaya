@@ -3,7 +3,7 @@
 *Siempre Blessd*
 _Siempre Blessd_
 
-![Alt](https://www.terra.com.co/u/fotografias/m/2023/6/13/f850x638-11015_88504_4837.jpg)
+![Alt](https://impactolatino.com/wp-content/uploads/2021/10/Warner-Music-Latina-ficha-a-Blessd...jpg)
 
 | Color | Código |
 | ----------- | ----------- |
