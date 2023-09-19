@@ -2,8 +2,7 @@
 ---
 *Programa Ingenieria de Sistemas*
 
-![Alt](![image](https://github.com/usernicolasmaya/usernicolasmaya/assets/143303604/0d3f619e-78e9-43db-99b5-d6af04cca144)
-
+![Alt](https://github.com/usernicolasmaya/usernicolasmaya/assets/143303604/0d3f619e-78e9-43db-99b5-d6af04cca144)
 
 
 - Nicolas Maya
