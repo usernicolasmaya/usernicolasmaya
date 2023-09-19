@@ -5,10 +5,9 @@ _ese_
 
 ![Alt](https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43c05d.png)
 
-- Soy Nicolas Maya
-- Tengo casi 18 años
-- Me gusta spider-man
-- chao
+- Nicolas Maya
+- 18 años
+- Estudio en universidad mariana ing de sistemas
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=usernicolasmaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
