@@ -5,7 +5,7 @@
 ![Alt](https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43c05d.png)
 
 - Nicolas Maya
-- 18 años
+- Adquiriendo conocimientos en Phyton y Java
 - Estudio en universidad mariana ing de sistemas
 
 # 📊 GitHub Stats:
