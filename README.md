@@ -22,15 +22,15 @@
 
 # Apo2 Funciones.
 
-Se creo en eclipse un programa que le pide al usuario ingresar dos numero enteros para con estos valores multiplicar, resta, dividir y sumar.  
+Se creo un programa con el lenguaje JAVA que le pide al usuario ingresar dos numero enteros y con eos valores generar una suma, resta, multiplicacion y division.  
 
 ## Empezando
 
-Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba.
+Las instrucciones se encuentran en los comentarios del codigo para una mejor comprension del mismo.
 
 ### Requisitos previos
 
-Instalar Eclipse en tu computador
+Instalar una buena IDE en este caso usamos Eclipse:
 
 ```
 Link de instalación de Eclipse: https://www.eclipse.org/downloads/
@@ -38,25 +38,25 @@ Link de instalación de Eclipse: https://www.eclipse.org/downloads/
 
 ### Instalación
 
-Importar la libreria JOptionPane.
+Importar la libreria para que funcione JOptionPane.
 
 
 ```
-import javax.swing.JOptionPane es para que funcione JOptionPane.
+import javax.swing.JOptionPane 
 ```
 
 ## Ejecutando las pruebas
 
 ```
-Para ejecutar las pruebas, debemos darle control+f11 para iniciar la aplicación.
+Para ejecutar las pruebas, debemos darle control+f11 o al boton de comenzar para ejecutar el codigo.
 ```
 
 ### Dividir en pruebas de principio a fin
 
 ```
-Este proyecto nos ayuda a solucinar operaciones primarias
-Como resta, suma, multiicacion y division
-Ingresando numeros por teclado
+Este proyecto nos ayuda a solucinar las siguientes operaciones:
+Suma, resta, multiplicacion y division
+De numeros enteros ingresados por el usuario
 ```
 
 ### Y pruebas de estilo de codificación.
@@ -120,24 +120,22 @@ public class PROYECTO {
 
 ## Despliegue (Deployment)
 
-Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
+Este codigo puede usarse como una calculadora en cualquier dispositivo tecnologico.
 
 
 ## Construido con
 
-Dropwizard : el marco web utilizado
-Maven - Gestión de dependencias
-ROMA : se utiliza para generar canales RSS
+JOptionPane: Se usa para darle una mejor interfaz al codigo.
 
 ## Versionado
 
-Usamos Git para el control de versiones. Para conocer las versiones disponibles, consulte las etiquetas en este repositorio .
+Eclipse 2023-09 R
 
 ## Autores
 
-* **Juan Zambrano**
-* **Danna Lagos**
-* **Anyeli Jaramillo** 
+* **Nicolas Maya**
+* **Julian Ceballos**
+* **Santiago Luna** 
 
 
 ## Licencia
@@ -147,6 +145,5 @@ Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener
 ## Expresiones de gratitud (Acknowledgments)
 
 
-* Un consejo para cualquiera cuyo código se haya utilizado
-* Inspiración
-* etc
+* Tener conocimiento de retornos en JAVA
+* Tener conocimiento de la estructura de JOptionPane
