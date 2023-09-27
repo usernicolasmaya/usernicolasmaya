@@ -1,4 +1,4 @@
-### Nicolas Maya
+### Repositorio Personal/Nicolas Maya
 ---
 *Programa Ingenieria de Sistemas*
 
@@ -64,50 +64,58 @@ Ingresando numeros por teclado
 ```
 package proyecto;
 
-import javax.swing.JOptionPane;
-//Se importa una nueva libreria que permite ingresar datos de manera manual
+package JAVA;
 
-public class proyecto3 {
-	public static void main(String[]args) {
-		JOptionPane.showMessageDialog(null,"Digite un valor\n");
-//Se muestra un mensaje de lo que hara el programa
-		int x=Integer.parseInt(JOptionPane.showInputDialog(null,"Ingrese el primer numero"));
-//Se pide al usuario que ingrese un valor entero
-		int y=Integer.parseInt(JOptionPane.showInputDialog(null,"Ingrese el segundo numero"));
-//Se pide al usuario que igrese el segundo valor entero
-		int t=suma(x,y);
-//Se define t como suma y esta misma como un valor entero
-		int z=resta(x,y);
-//Define z como resta y esta misma como un valor entero
-		int m=multiplicacion(x,y);
-//Define m como multiplicacion y esta misma como un valor entero
-		int d=division(x,y);
-//Define m como division y esta misma como un valor entero
-		JOptionPane.showMessageDialog(null,"El total de la suma es: " + t ,"suma",1);
-		JOptionPane.showMessageDialog(null,"El total de la resta es: " + z,"resta",1);
-		JOptionPane.showMessageDialog(null,"El total de la multiplicacion es: " + m,"multiplicacion",1);
-		JOptionPane.showMessageDialog(null,"El total de la division es: " + d,"division",1);
-//Se muestra un mensaje de lo que hara el programa
-	}
-		public static int suma(int a,int b) {
-			return a+b;
-//Esto permite hacer la operacion y llamar en los parametos para poder generar la suma 
-		}
-		
-		public static int resta(int x,int y) {
-			return x-y;
-//Esto permite hacer la operacion y llamar en los parametos para poder generar la resta
+//Se importa una libreria que permite mostrar una interfaz (JOptionPane) 
+import javax.swing.JOptionPane;
+
+public class PROYECTO {
+	
+		public static void main(String[]args) {
+			//Se muestra un mensaje al usuario para que digite un valor
+			JOptionPane.showMessageDialog(null,"Digite un valor\n");
+        	//Se muestra un mensaje para que el usuario ingrese el primer numero en el programa
+			int x=Integer.parseInt(JOptionPane.showInputDialog(null,"Ingrese el primer numero"));
+	        //Se muestra un mensaje para que el usuario ingrese el segundo numero en el programa
+			int y=Integer.parseInt(JOptionPane.showInputDialog(null,"Ingrese el segundo numero"));
 			
+		    //Se define t como suma y como un valor entero
+			int t=suma(x,y);
+			//Define z como resta y como un valor entero
+			int z=resta(x,y);
+			//Define m como multiplicacion y como un valor entero
+			int m=multiplicacion(x,y);
+			//Define d como division y como un valor entero
+			int d=division(x,y);
+	
+			//Se muestra un mensaje de lo que realizo el programa
+			JOptionPane.showMessageDialog(null,"El total de la suma es: " + t ,"suma",1);
+			JOptionPane.showMessageDialog(null,"El total de la resta es: " + z,"resta",1);
+			JOptionPane.showMessageDialog(null,"El total de la multiplicacion es: " + m,"multiplicacion",1);
+			JOptionPane.showMessageDialog(null,"El total de la division es: " + d,"division",1);
+
 		}
-		public static int multiplicacion(int a,int b) {
-			return a*b;
-// esto permite hacer la operacion y llamar en los parametos para poder generar la multiplicacion 
+		    //Esto permite hacer la operacion y retornar en los parametos para poder dar la suma
+			public static int suma(int a,int b) {
+				return a+b;
+			}
+			
+			//Esto permite hacer la operacion y retornar en los parametos para poder dar la resta
+			public static int resta(int x,int y) {
+				return x-y;
+				
+			}
+			//Esto permite hacer la operacion y retornar en los parametos para poder dar la multiplicacion 
+			public static int multiplicacion(int a,int b) {
+				return a*b;
+	
+		}
+			//Esto permite hacer la operacion y retornar en los parametos para poder dar la division
+			public static int division(int a,int b) {
+				return a/b;
 	}
-		public static int division(int a,int b) {
-			return a/b;
-// esto permite hacer la operacion y llamar en los parametos para poder generar la division
-}
-}
+	}
+
 ```
 
 ## Despliegue (Deployment)
